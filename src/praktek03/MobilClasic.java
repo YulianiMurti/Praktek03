@@ -6,6 +6,14 @@ public class MobilClasic extends Mobil{
     void throttle(){
         System.out.println("Kunoooo...............");
     }
+
+    public String getJenisClasic() {
+        return jenisClasic;
+    }
+
+    public void setJenisClasic(String jenisClasic) {
+        this.jenisClasic = jenisClasic;
+    }
     
     
 }
