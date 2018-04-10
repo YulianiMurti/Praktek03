@@ -4,7 +4,8 @@ public class MobilClasic extends Mobil{
     private String jenisClasic;
     
     void throttle(){
-        System.out.printeln("Kunoooo...............");
+        System.out.println("Kunoooo...............");
     }
+    
     
 }
