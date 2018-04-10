@@ -8,8 +8,7 @@ public class Mobil {
     void cetakInfo(){
         System.out.println("Merk  \t: "+merk+"\n"+
                 "Warna\t:" +warna+" \n"+
-                "Harga\t: "+harga);
-        
+                "Harga\t: "+harga);       
     }
   
 }
